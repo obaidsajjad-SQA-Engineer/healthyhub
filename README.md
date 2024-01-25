@@ -39,9 +39,9 @@
 
 ## Technologies Used
 
-- **State Management:** GetX Navigation
 - **UI Framework:** Flutter
-- **Navigation:** Navigator
+- **Responsiveness:** Screenutils package(responsive for mobile, tablet, iPad)
+- **Navigation:** GetxNavigation
 - **BMI Calculation:** Custom Logic
 - **Error Handling:** Flutter's Form Validation
 ## Getting Started

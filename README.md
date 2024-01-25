@@ -60,25 +60,18 @@ git clone https://github.com/osmughal01/healthyhub.git
   <tr>
     <td align="center"><img src="screenshots/1.png" alt="Screenshot 1" /></td>
     <td align="center"><img src="screenshots/2.png" alt="Screenshot 2" /></td>
-  </tr>
-  <tr>
     <td align="center"><img src="screenshots/3.png" alt="Screenshot 3" /></td>
     <td align="center"><img src="screenshots/4.png" alt="Screenshot 4" /></td>
   </tr>
   <tr>
     <td align="center"><img src="screenshots/5.png" alt="Screenshot 5" /></td>
     <td align="center"><img src="screenshots/6.png" alt="Screenshot 6" /></td>
-  </tr>
-  <tr>
     <td align="center"><img src="screenshots/7.png" alt="Screenshot 7" /></td>
     <td align="center"><img src="screenshots/8.png" alt="Screenshot 8" /></td>
   </tr>
   <tr>
     <td align="center"><img src="screenshots/9.png" alt="Screenshot 9" /></td>
     <td align="center"><img src="screenshots/10.png" alt="Screenshot 10" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="screenshots/13.png" alt="Screenshot 13" /></td>
   </tr>
 </table>
 
